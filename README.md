@@ -1,6 +1,7 @@
-# Projeto Athena-Core
+# IA Atena – Inteligência Artificial Autônoma para trading e multiplicação de capital
 
-Repositório oficial da Mega IA Atena — Inteligência Autônoma para Análise e Operações no Mercado de Criptomoedas.
+Este repositório contém o núcleo da Mega IA Atena, com estratégia ativa e autonomia total de operação.
 
-Versão inicial: Junho de 2025.  
-Responsável: Jacqueline Costa Viana (jac-joca)
+© 2025 Jacqueline Costa Viana — (@jac-joca)
+
+IA Atena iniciada com autonomia total em 2025
